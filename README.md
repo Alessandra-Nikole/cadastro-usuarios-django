@@ -1,6 +1,6 @@
 💻 Sistema de Cadastro de Usuários - Django
 
-Este é um projeto simples de um **Sistema de Gerenciamento de Usuários**, desenvolvido com Django, com foco em praticar criação de CRUD (Cadastro, Consulta, Atualização e Exclusão) e organização de dados.
+Este é um projeto simples de um Sistema de Cadastro de Usuários, desenvolvido com Django, focado em praticar as funcionalidades de cadastro e listagem de usuários.
 
 🚀 Funcionalidades
 - ✅ Cadastro de usuários (nome e idade)
