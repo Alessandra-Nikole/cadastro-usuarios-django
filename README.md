@@ -57,8 +57,9 @@ Sistema simples web para cadastro e consulta de usuários, desenvolvido em Djang
     http://127.0.0.1:8000/
 
 ✍️ Como utilizar:
-Preencha o nome e idade no formulário.
 
-Clique em "Enviar" para adicionar um novo usuário.
+1.Preencha o nome e idade no formulário.
 
-Os usuários cadastrados aparecerão listados na tabela abaixo do formulário.
+2.Clique em "Enviar" para adicionar um novo usuário.
+
+3.Os usuários cadastrados aparecerão listados na tabela abaixo do formulário.
