@@ -4,9 +4,7 @@ Sistema simples web para cadastro e consulta de usuários, desenvolvido em Djang
 
 📑 Índice  
 
-💼 Sistema de Cadastro de Usuários
-
-    🔧 Decisões técnicas
+     🔧 Decisões técnicas
       📚 Frameworks e bibliotecas
         ⚙️ Requisitos
           🚀 Como executar o projeto
