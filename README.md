@@ -12,11 +12,11 @@ Sistema simples web para cadastro e consulta de usuários, desenvolvido em Djang
               📈 Fluxograma
 
 🔧 Decisões técnicas:
-🐍 Python e Django: Escolhidos por serem ferramentas poderosas e acessíveis para desenvolvimento web rápido e estruturado. Django foi selecionado para praticar a criação de projetos escaláveis com banco de dados integrado.
+- 🐍 Python e Django: Escolhidos por serem ferramentas poderosas e acessíveis para desenvolvimento web rápido e estruturado. Django foi selecionado para praticar a criação de projetos escaláveis com banco de dados integrado.
 
-🌐 HTML e Bootstrap: Utilizados para criação da interface web simples e responsiva.
+- 🌐 HTML e Bootstrap: Utilizados para criação da interface web simples e responsiva.
 
-🗃️ SQLite: Banco de dados leve e fácil de configurar, ideal para projetos de aprendizado e prototipagem.
+- 🗃️ SQLite: Banco de dados leve e fácil de configurar, ideal para projetos de aprendizado e prototipagem.
 
 📚 Frameworks e bibliotecas:
 - Django
