@@ -29,11 +29,11 @@ Sistema simples web para cadastro e consulta de usuários, desenvolvido em Djang
 - Python 3.13 ou superior
 - Django instalado (pip install django)
 
-📂 Estrutura do Projeto:
-'''          
-projeto_cad_usuarios/
-├── app_cad_usuarios/
-│   ├── migrations/
+📂 Estrutura do Projeto:     
+     
+projeto_cad_usuarios/     
+├── app_cad_usuarios/     
+│   ├── migrations/     
 │   ├── templates/
 │   │   └── usuarios/
 │   │       ├── base.html
@@ -50,7 +50,7 @@ projeto_cad_usuarios/
 │   └── wsgi.py
 ├── db.sqlite3
 ├── manage.py
-'''
+└── README.md
 
 🔗 Acesse o Projeto Localmente:
 
