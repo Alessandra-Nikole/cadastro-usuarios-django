@@ -19,42 +19,47 @@ Sistema simples web para cadastro e consulta de usuários, desenvolvido em Djang
 - 🗃️ SQLite: Banco de dados leve e fácil de configurar, ideal para projetos de aprendizado e prototipagem.
 
 📚 Frameworks e bibliotecas:
+- Python
 - Django
 - SQLite
-- Bootstrap
+- CSS(Bootstrap)
+- HTML
 
 ⚙️ Requisitos:
 - Python 3.13 ou superior
 - Django instalado (pip install django)
 
+📂 Estrutura do Projeto:
+
+  projeto_cad_usuarios/
+├── app_cad_usuarios/
+│   ├── migrations/
+│   ├── templates/
+│   │   └── usuarios/
+│   │       ├── base.html
+│   │       ├── home.html
+│   │       └── usuarios.html
+│   ├── admin.py
+│   ├── apps.py
+│   ├── models.py
+│   ├── views.py
+│   └── urls.py
+├── projeto_cad_usuarios/
+│   ├── settings.py
+│   ├── urls.py
+│   └── wsgi.py
+├── db.sqlite3
+├── manage.py
+└── README.md
+
 🚀 Como executar o projeto:
 - O projeto é acessado via navegador após iniciar o servidor local do Django.
 
-📂 Com entrada web:
+🔗 Acesse o Projeto Localmente:
 
-1.Clone o repositório:
+💻 Link de acesso
 
-    https://github.com/Alessandra-Nikole/cadastro-usuarios-django
-
-2.Acesse a pasta do projeto:
-
-    cd projeto_django/projeto_cad_usuarios
-
-3.Instale o Django:
-
-    pip install django
-
-4.Execute as migrações:
-  
-    python manage.py migrate
-
-5.Inicie o servidor:
-
-    python manage.py runserver
-
-6.Acesse no navegador:
-
-    http://127.0.0.1:8000/
+     http://127.0.0.1:8000/
 
 ✍️ Como utilizar:
 
