@@ -2,9 +2,10 @@
 
 Sistema simples web para cadastro e consulta de usuários, desenvolvido em Django, com foco em praticar conceitos de CRUD (Cadastro e Consulta) e estruturação de aplicações web.
 
-📑 Índice
+📑 Índice  
+
 💼 Sistema de Cadastro de Usuários
-  📑 Índice
+
     🔧 Decisões técnicas
       📚 Frameworks e bibliotecas
         ⚙️ Requisitos
