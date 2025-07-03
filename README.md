@@ -30,8 +30,8 @@ Sistema simples web para cadastro e consulta de usuários, desenvolvido em Djang
 - Django instalado (pip install django)
 
 📂 Estrutura do Projeto:
-
-  projeto_cad_usuarios/
+ 
+projeto_cad_usuarios/
 ├── app_cad_usuarios/
 │   ├── migrations/
 │   ├── templates/
@@ -65,3 +65,7 @@ Sistema simples web para cadastro e consulta de usuários, desenvolvido em Djang
 2.Clique em "Enviar" para adicionar um novo usuário.
 
 3.Os usuários cadastrados aparecerão listados na tabela abaixo do formulário.
+
+
+![Captura de tela_3-7-2025_172237_127 0 0 1](https://github.com/user-attachments/assets/63ed4e1a-36d8-4a0c-9fc6-c6085a1da692)
+![Captura de tela_3-7-2025_172224_127 0 0 1](https://github.com/user-attachments/assets/943f7ccc-c7a0-44e0-9ff2-b9c0f11644ed)
