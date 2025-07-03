@@ -7,9 +7,9 @@ Sistema simples web para cadastro e consulta de usuários, desenvolvido em Djang
      🔧 Decisões técnicas
       📚 Frameworks e bibliotecas
         ⚙️ Requisitos
-          🚀 Como executar o projeto
-            📂 Com entrada web
-              📈 Fluxograma
+          📂 Estrutura do Projeto
+            🔗 Acesse o Projeto Localmente
+              📈 print 
 
 🔧 Decisões técnicas:
 - 🐍 Python e Django: Escolhidos por serem ferramentas poderosas e acessíveis para desenvolvimento web rápido e estruturado. Django foi selecionado para praticar a criação de projetos escaláveis com banco de dados integrado.
@@ -51,9 +51,6 @@ Sistema simples web para cadastro e consulta de usuários, desenvolvido em Djang
 ├── db.sqlite3
 ├── manage.py
 └── README.md
-
-🚀 Como executar o projeto:
-- O projeto é acessado via navegador após iniciar o servidor local do Django.
 
 🔗 Acesse o Projeto Localmente:
 
