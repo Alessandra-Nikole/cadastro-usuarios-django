@@ -31,7 +31,7 @@ Sistema simples web para cadastro e consulta de usuários, desenvolvido em Djang
 
 📂 Estrutura do Projeto:
  
-projeto_cad_usuarios/
+  projeto_cad_usuarios/
 ├── app_cad_usuarios/
 │   ├── migrations/
 │   ├── templates/
@@ -50,7 +50,7 @@ projeto_cad_usuarios/
 │   └── wsgi.py
 ├── db.sqlite3
 ├── manage.py
-└── README.md
+
 
 🔗 Acesse o Projeto Localmente:
 
